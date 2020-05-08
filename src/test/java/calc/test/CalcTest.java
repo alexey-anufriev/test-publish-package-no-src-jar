@@ -11,4 +11,9 @@ public class CalcTest {
         Assertions.assertEquals(2, new Calc().sum(1, 1));
     }
 
+    @Test
+    public void shouldMultiplyTwoNumbers() {
+        Assertions.assertEquals(6, new Calc().mul(3, 2));
+    }
+
 }
