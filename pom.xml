@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>alexey-anufriev</groupId>
-    <artifactId>test-artifact</artifactId>
+    <artifactId>test-artifact-no-src-jar</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
