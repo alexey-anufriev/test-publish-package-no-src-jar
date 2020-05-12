@@ -84,7 +84,7 @@
         <repository>
             <id>github</id>
             <name>GitHub</name>
-            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package/</url>
+            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package-no-src-jar/</url>
         </repository>
     </repositories>
 
@@ -92,14 +92,14 @@
         <snapshotRepository>
             <id>github-snapshots</id>
             <name>GitHub Snapshots</name>
-            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package/</url>
+            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package-no-src-jar/</url>
             <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
 
         <repository>
             <id>github-releases</id>
             <name>GitHub Releases</name>
-            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package/</url>
+            <url>https://maven.pkg.github.com/alexey-anufriev/test-publish-package-no-src-jar/</url>
             <uniqueVersion>false</uniqueVersion>
         </repository>
     </distributionManagement>
